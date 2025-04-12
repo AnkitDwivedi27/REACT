@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AnkitDwivedi27.github.io/<REACT>",
+  "homepage": "https://AnkitDwivedi27.github.io/REACT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
